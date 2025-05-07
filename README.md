@@ -10,12 +10,14 @@ A machine learning project to classify water samples as **safe** or **unsafe** f
 - **Institution:** 1105 - Gojan School of Business and Technology  
 - **Course:** Data Analytics in Process Industries  
 - **Project Title:** Classification of Water Safety  
-- **Submitted by**
- *Abinaya R – 110523237001*
- *Akash M – 110523237002*
- *Ashok Kumar A – 110523237003*
- *Ashwathi R – 110523237004*
- *Divya Bhavani R – 110523237005*
+## Submitted by
+
+- **Abinaya R** – *110523237001*  
+- **Akash M** – *110523237002*  
+- **Ashok Kumar A** – *110523237003*  
+- **Ashwathi R** – *110523237004*  
+- **Divya Bhavani R** – *110523237005*
+
 ---
 
 ## 🧪 Problem Statement
